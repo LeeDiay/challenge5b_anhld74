@@ -39,9 +39,9 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="admin/user/add" class="nav-link">
+                            <a href="assignments/add" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Them nguoi dung</p>
+                                <p>Them bai tap</p>
                             </a>
                         </li>
 
